@@ -65,6 +65,18 @@ You play as **The Protagonist**, a disgraced desert guardian seeking redemption 
 
 ---
 
+## 📦 Credits / Assets Used
+
+- [Character](https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-shooter-series-farmer-cowboy-273303)
+- [Enemies](https://assetstore.unity.com/packages/3d/characters/stylized-zombie-model-animations-314903)
+- [The Boss](https://assetstore.unity.com/packages/3d/characters/goblin01-188119)
+- [Map | Desert Village](https://assetstore.unity.com/packages/3d/environments/low-poly-desert-village-314881)
+- [Map | Winter House & Snow Village](https://assetstore.unity.com/packages/3d/environments/low-poly-wooden-house-in-the-snow-310613)
+- [Sound Pack | Zombies](https://assetstore.unity.com/packages/audio/sound-fx/zombie-sound-pack-free-version-124430)
+- [Sound Pack | Winter Ambience](https://www.youtube.com/watch?v=AAbUHmMaD-U)
+- [Sound Pack | Desert Ambience](https://www.youtube.com/watch?v=GxpxKOmRkAA)
+- [Sound Pack | Main Menu Theme](https://www.youtube.com/watch?v=madlKuzv5xk)
+
 ## 👥 Team & Contributors
 
 - [@1eclerc](https://github.com/1eclerc)
