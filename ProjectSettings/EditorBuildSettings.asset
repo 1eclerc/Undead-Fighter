@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: 63c4b292bc68c844c90e4ce705a8da9e
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 4876e7f24ecaa1f488f40943384ca3ac
+  - enabled: 0
+    path: Assets/Scenes/SettingsScene.unity
+    guid: b742a29982f0838468732324c71ada60
+  - enabled: 1
+    path: Assets/Scenes/DesertScene.unity
+    guid: 97ecbaa5def08154ba5b251c1756fd9c
+  - enabled: 1
+    path: Assets/Scenes/WinterScene.unity
+    guid: 2cc0015a5eed8b14aaa854fdf92fd2e1
+  - enabled: 1
+    path: Assets/Scenes/PineForestScene.unity
+    guid: 452432e099eaaf745a4d8cd0bdf225dd
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
