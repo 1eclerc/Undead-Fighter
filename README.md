@@ -65,6 +65,16 @@ You play as **The Protagonist**, a disgraced desert guardian seeking redemption 
 
 ---
 
+## 📷 Sample Screenshots
+
+![IMG-20250724-WA0001](https://github.com/user-attachments/assets/6021aacf-144b-4abe-9f9c-2ca90fa50d9f)
+
+![IMG-20250724-WA0005](https://github.com/user-attachments/assets/9701b206-11e5-44a8-9d70-e3bae9d889ec)
+
+![IMG-20250724-WA0004](https://github.com/user-attachments/assets/d320f5f0-4723-4d60-9c16-4394ac3d836d)
+
+---
+
 ## 📦 Credits / Assets Used
 
 - [Character](https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-shooter-series-farmer-cowboy-273303)
